@@ -1,6 +1,8 @@
 #!/usr/bin/python
 ''' 
-This program is meant for taking the -du output from HDFS directories and ETL'ing the output into a Hive table for further analysis.
+Description:
+ * This program is meant for taking the -du output from HDFS directories and 
+ETL'ing the output into a Hive table for further analysis in Zeppelin.
 
 Authors:
  * Dennis T Bielinski
